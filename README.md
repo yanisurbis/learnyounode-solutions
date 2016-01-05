@@ -1,6 +1,6 @@
 # Learnyounode
 
-## Solutions for the learnyounode tutorial
+## Solutions for the learnyounode tutorial from [NodeSchool](http://nodeschool.io)
 
 - [x] Exercise 1
 - [x] Exercise 2
