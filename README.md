@@ -13,5 +13,5 @@
 - [x] Exercise 9
 - [x] Exercise 10
 - [x] Exercise 11
-- [ ] Exercise 12
+- [x] Exercise 12
 - [ ] Exercise 13
